@@ -13,11 +13,11 @@ then he logged in the system to look for the all the pickup request for his pinc
 He then either accept/reject the request. Upon acceptance he communicate with donar for pickup.
 <br>
 2.Why this project was chosen <br >
-I have choosen this project because there is lot to learn from this project.This Project uses local BlockChain for storage of data.Every update to the system is recorded in blockchain network for accountability.Using Blockchain the system is transparent and participant are accountable for their action to maintain healthy and hygenic food delivery system.
+I have choosen this project because there is lot to learn from this project.This Project uses  private BlockChain using ganache for storage of data.Every update to the system is recorded in blockchain network for accountability. Using Blockchain, our system is transparent and participant are accountable for their action to maintain healthy and hygenic food delivery system.
 <br>
 
 3.How did you make the project.<br>
-This Application is nodejs project uses html,css,javascript and Blockchain for local storage.
+This Application is nodejs project uses html,css,javascript and Blockchain for  storage.
 Each record is maintained in BlockChain System in the form of transaction which hash unique hash.The details of the transaction can be fetched later.
 
 4.WHAT features, technical things you had implemented.
